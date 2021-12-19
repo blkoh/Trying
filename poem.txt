@@ -4,3 +4,4 @@ The rainbow
 Red
 Yellow
 Blue
+Pink
